@@ -1,0 +1,2 @@
+[workspace]
+members = ["klimt", "klimt-cli", "klimt-derive", "klimt-log", "klimt-plugin"]
